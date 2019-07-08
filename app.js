@@ -24,7 +24,11 @@ function calculateNumericOutput() {
     var output="Total Numeric value of person's name is "+totalNameValue;
     document.getElementById('Output').innerText=output;
 <<<<<<< HEAD
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> d8760db20d464622285d90c2e4c3f97986668f7d
 =======
 }
 >>>>>>> d8760db20d464622285d90c2e4c3f97986668f7d
